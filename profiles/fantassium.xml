@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE IBCCustomer SYSTEM "dtd/IBCCustomer.dtd">
+<IBCCustomer>
+     <name>THE FANTASIUM PROJECTS CORP</name>
+     <account>9611</account>
+     <ref />
+     <ref2 />
+     <company>THE FANTASIUM PROJECTS CORP</company>
+     <address>1133 BROADWAY</address>
+     <address2>.SUITE 641</address2>
+     <city>NEW YORK</city>
+     <state>NY</state>
+     <zip>10010</zip>
+     <country>US</country>
+     <phone>1-646-638-0433</phone>
+</IBCCustomer>
+

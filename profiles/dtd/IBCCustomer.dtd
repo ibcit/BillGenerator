@@ -1,0 +1,12 @@
+<!ELEMENT IBCCustomer ( name, account, ref, ref2, company, address, city, state, zip, country, phone ) >
+<!ELEMENT account ( #PCDATA ) >
+<!ELEMENT address ( #PCDATA ) >
+<!ELEMENT city ( #PCDATA ) >
+<!ELEMENT company ( #PCDATA ) >
+<!ELEMENT country ( #PCDATA ) >
+<!ELEMENT name ( #PCDATA ) >
+<!ELEMENT phone ( #PCDATA ) >
+<!ELEMENT ref ( #PCDATA ) >
+<!ELEMENT ref2 ( #PCDATA ) >
+<!ELEMENT state ( #PCDATA ) >
+<!ELEMENT zip ( #PCDATA ) >

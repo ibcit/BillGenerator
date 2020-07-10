@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE IBCCustomer SYSTEM "dtd/IBCCustomer.dtd">
+<IBCCustomer>
+     <name>EMILY USA</name>
+     <account>9524</account>
+     <ref />
+     <ref2 />
+     <company>EMILY USA</company>
+     <address>11850 WATERSTONE LOOP DR.</address>
+     <address2 />
+     <city>WINDEREMERE</city>
+     <state>FL</state>
+     <zip>34786</zip>
+     <country>US</country>
+     <phone>1-843-592-6689</phone>
+</IBCCustomer>
+

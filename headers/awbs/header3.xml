@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE header-file SYSTEM "..\attrib\header-file.dtd">
+<airbillPrintout>
+     <Name>
+          <option>TM Name</option>
+     </Name>
+     <Company>
+          <option>Company</option>
+     </Company>
+     <Address>
+          <option>ADDRESS1</option>
+          <option>ADDRESS2</option>
+     </Address>
+     <City>
+          <option>city</option>
+     </City>
+     <State>
+          <option>st</option>
+     </State>
+     <Zip>
+          <option>ZIP</option>
+     </Zip>
+     <Country>
+          <option>Country</option>
+     </Country>
+     <Phone />
+     <Qty>
+          <option>TOTAL PCS PER TM</option>
+     </Qty>
+     <Weight />
+     <Reference />
+     <SecondRef />
+     <Destination />
+     <Description />
+     <Awb />
+</airbillPrintout>
+

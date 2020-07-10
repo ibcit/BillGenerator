@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE header-file SYSTEM "..\attrib\header-file.dtd">
+<airbillPrintout>
+     <Name>
+          <option>NAME</option>
+     </Name>
+     <Company />
+     <Address>
+          <option>ADD1</option>
+          <option>ADD2</option>
+          <option>ADD3</option>
+          <option>ADD4</option>
+     </Address>
+     <City>
+          <option>CITY</option>
+     </City>
+     <State>
+          <option>STATE</option>
+     </State>
+     <Zip>
+          <option>ZIP</option>
+     </Zip>
+     <Country>
+          <option>country</option>
+     </Country>
+     <Phone />
+     <Qty>
+          <option>pieces</option>
+     </Qty>
+     <Weight />
+     <Reference />
+     <SecondRef>
+          <option>sec_ref</option>
+     </SecondRef>
+     <Destination />
+     <Description />
+     <Awb />
+</airbillPrintout>
+

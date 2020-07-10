@@ -1,0 +1,35 @@
+<!ELEMENT airbillPrintout ( Name, Company, Address, City, State, Zip, Country, Phone, Qty, Weight, Reference, SecondRef, Destination, Description, Awb ) >
+
+<!ELEMENT Name ( option+ ) >
+
+<!ELEMENT Company ( option+ ) >
+
+<!ELEMENT Address ( option+ ) >
+
+<!ELEMENT City ( option+ ) >
+
+<!ELEMENT State ( option+ ) >
+
+<!ELEMENT Zip ( option+ ) >
+
+<!ELEMENT Country ( option+ ) >
+
+<!ELEMENT Phone ( option+ ) >
+
+<!ELEMENT Qty ( option+ ) >
+
+<!ELEMENT Weight ( option+ ) >
+
+<!ELEMENT Description ( option+ ) >
+
+<!ELEMENT Destination ( option+ ) >
+
+<!ELEMENT Reference ( option+ ) >
+
+<!ELEMENT SecondRef ( option+ ) >
+
+<!ELEMENT Awb ( option+ ) >
+
+<!ELEMENT option ( #PCDATA ) >
+
+

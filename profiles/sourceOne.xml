@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE IBCCustomer SYSTEM "dtd/IBCCustomer.dtd">
+<IBCCustomer>
+	<name>Source One Direct</name>
+	<account>6958</account>
+	<ref></ref>
+	<ref2></ref2>
+	<company>Source One Direct, Inc. (D)</company>
+	<address>1800-B Northeast Expressway</address>
+     <address2 />
+	<city>Atlanta</city>
+	<state>GA</state>
+	<zip>30329</zip>
+	<country>US</country>
+	<phone>678-420-5021</phone>
+</IBCCustomer>

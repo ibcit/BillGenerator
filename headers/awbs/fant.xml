@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE header-file SYSTEM "/data/development/codebase/IBCBillGenerator/dist/headers/attrib/header-file.dtd">
+<airbillPrintout>
+     <Name>
+          <option>consignee_name</option>
+     </Name>
+     <Company />
+     <Address>
+          <option>consignee_address</option>
+     </Address>
+     <City>
+          <option>consignee_city</option>
+     </City>
+     <State />
+     <Zip>
+          <option>consignee_zip</option>
+     </Zip>
+     <Country>
+          <option>consignee_country</option>
+     </Country>
+     <Phone>
+          <option>consignee_tel</option>
+     </Phone>
+     <Qty>
+          <option>Pieces</option>
+     </Qty>
+     <Outlying />
+     <Weight>
+          <option>total_weight</option>
+     </Weight>
+     <Route />
+     <Reference>
+          <option>customer_ref</option>
+     </Reference>
+     <SecondRef>
+          <option>ref2</option>
+     </SecondRef>
+     <Destination />
+     <Value>
+          <option>declare_value</option>
+     </Value>
+     <CustEmail />
+     <CustTaxID />
+     <Description>
+          <option>product_details</option>
+     </Description>
+     <Awb>
+          <option>tracking_number</option>
+     </Awb>
+</airbillPrintout>
+

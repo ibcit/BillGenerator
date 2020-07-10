@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE IBCCustomer SYSTEM "dtd/IBCCustomer.dtd">
+<IBCCustomer>
+     <name>Alberto Ochoa</name>
+     <account>8040</account>
+     <ref>5649856</ref>
+     <ref2 />
+     <company>IBC Miami</company>
+     <address>8401 NW 17th St</address>
+     <address2 />
+     <city>Miami</city>
+     <state>Fl</state>
+     <zip>33126</zip>
+     <country>US</country>
+     <phone>305-597-5327</phone>
+</IBCCustomer>
+

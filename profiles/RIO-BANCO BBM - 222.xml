@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE IBCCustomer SYSTEM "dtd/IBCCustomer.dtd">
+<IBCCustomer>
+     <name>BANCO BBM S/A</name>
+     <account>222</account>
+     <ref />
+     <ref2 />
+     <company>BANCO BBM S/A</company>
+     <address>PRACA PIO X 98 11 ANDAR, CENTRO</address>
+     <address2 />
+     <city>RIO DE JANEIRO</city>
+     <state>RJ</state>
+     <zip>20000000</zip>
+     <country>BRAZIL</country>
+     <phone />
+</IBCCustomer>
+
